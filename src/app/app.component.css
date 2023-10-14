@@ -1,0 +1,16 @@
+img{
+    width:50rem;
+    height: 30rem;
+
+    margin-top:8%;
+    margin-bottom:8.5%;
+}
+
+div{
+    background-color: bisque;
+}
+
+.prev{
+    margin-left: 15%;
+    margin-top: 15%;
+}
